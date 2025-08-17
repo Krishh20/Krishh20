@@ -31,7 +31,7 @@
 
 ## 💻 Projects
 
-### 1️⃣ Video Streaming Platform – YouTube-like Application | [Repository]([https://github.com/Krishh20/video-platform](https://github.com/Krishh20/Youtube))
+### 1️⃣ Video Streaming Platform – YouTube-like Application | [Repository](https://github.com/Krishh20/Youtube) )
 - **Tech Stack:** Next.js, Node.js, AWS S3, Lambda, API Gateway, OpenSearch, Kafka, FFmpeg, Prisma ORM, Google OAuth, HLS, Zustand  
 - Developed a **full-stack video streaming platform** with chunked upload functionality using S3 multipart uploads and a Kafka-powered transcoding pipeline with FFmpeg producing HLS streams (`.m3u8` / `.ts`).  
 - Designed a **serverless search infrastructure** using AWS OpenSearch, Lambda, and API Gateway for **real-time video metadata queries** with sub-second response times.  
@@ -49,7 +49,7 @@
 
 ---
 
-### 2️⃣ E-Commerce – React Hooks & State Management | [Repository]([https://github.com/Krishh20/e-commerce](https://github.com/Krishh20/Shop-It))
+### 2️⃣ E-Commerce – React Hooks & State Management | [Repository](https://github.com/Krishh20/Shop-It) )
 - **Tech Stack:** React.js, Node.js, Platzi Auth, Context API, useReducer, Local Storage, Platzi Fake API  
 - Built a **full-featured e-commerce application** to learn React hooks and advanced concepts.  
 - Implemented core functionalities: **cart, wishlist, item management** using React Context API and `useReducer`.  
@@ -85,7 +85,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Krishh20/Krishh20/main/snake.svg" />
+ <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Krishh20/Krishh20/main/snake.svg" />
 </p>
 
 
