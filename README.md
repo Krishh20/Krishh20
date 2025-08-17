@@ -47,9 +47,6 @@
  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white"/>
 </p>
 
-**GIF Preview:**  
-![Video Streaming Platform GIF](https://via.placeholder.com/600x300?text=Video+Platform+GIF)
-
 ---
 
 ### 2️⃣ E-Commerce – React Hooks & State Management | [Repository](https://github.com/Krishh20/e-commerce)
@@ -66,9 +63,6 @@
  <img src="https://img.shields.io/badge/useReducer-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-**GIF Preview:**  
-![E-Commerce App GIF](https://via.placeholder.com/600x300?text=E-Commerce+GIF)
-
 ---
 
 ## 📊 GitHub Stats
@@ -82,22 +76,18 @@
 </p>
 
 ---
-
 ## 🏆 LeetCode Stats
 <p align="center">
-  <img src="https://leetcode-badge-api.herokuapp.com/api?username=krishkrishh&theme=dark" alt="LeetCode Stats"/>
+  <img src="https://leetcode-stats.vercel.app/api?username=krishkrishh&theme=dark" alt="LeetCode Stats"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krishh20/Krishh20/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krishh20/Krishh20/output/snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Krishh20/Krishh20/output/snake.svg" />
-  </picture>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Krishh20/Krishh20/output/snake.svg" />
 </p>
+
 
 ---
 
