@@ -6,8 +6,8 @@
 
 ## 👩‍💻 About Me
 - 🎓 Pursuing *B.Tech + MBA [IT]* at IIIT Gwalior  
-- 💻 Passionate about *Full Stack Web Development (MERN)*  
-- 🌱 Currently learning advanced **React & Node.js** concepts  
+- 💻 Passionate about *Full Stack Web Development*  
+- 🌱 Currently learning **DevOps & AWS**
 - 📫 Reach me at: [krishkrishh156@gmail.com](mailto:krishkrishh156@gmail.com)
 
 ---
