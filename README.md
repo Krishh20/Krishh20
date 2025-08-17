@@ -85,8 +85,9 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Krishh20/Krishh20/output/snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Krishh20/Krishh20/main/snake.svg" />
 </p>
+
 
 
 ---
